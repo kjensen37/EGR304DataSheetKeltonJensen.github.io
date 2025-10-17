@@ -37,32 +37,35 @@ create a cleaner looking panel. Less space required on the PCB board and it has 
 
 **LCD Display**
 
-1. XC1259TR-ND surface mount crystal
+1. 1548-NHD-0216K1Z-NSW-BBW-L-ND LCD display
 
-    ![](png)
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3143f729-8799-4647-9ae0-e45638180b8c" />
 
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+
+    * $7.92/each
+    * [link to product](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-0216K1Z-NSW-BBW-L/1701179)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | Requires external components and support circuitry for interface |
-    | Compatible with PSoC                      | Needs special PCB layout.                                        |
-    | Meets surface mount constraint of project |
+    | Standard 5V operation                     | Requires backlight for visibility                                |
+    | High contrast blue backlight aesthetic    | Higher power consumption                                         |
+    | Manual contrast control via potentiometer | Limited viewing angles                                           |
 
-1. CTX936TR-ND surface mount oscillator
+2. NHD-0216HZ-FSW-FBW-33V3C-ND LCD display
 
-    ![](image3.png)
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/af4f548f-ad76-4bb9-ae8b-6c61d6eb827a" />
 
-    * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+
+    * $9.37/each
+    * [Link to product](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-0216HZ-FSW-FBW-33V3C/2773591)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
-    | Outputs a square wave                                             | More expensive      |
-    | Stable over operating temperature                                 | Slow shipping speed |
-    | Direct interface with PSoC (no external circuitry required) range |
+    | Modern 3.3V logic compatibility                                   | Lower contrast appearance                    |
+    | Transflective display technology                                  | No manual contrast adjustment                |
+    | Superior viewing angles                                           | Lower backlight current but separate voltage |
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** Option 1: 1548-NHD-0216K1Z-NSW-BBW-L-ND LCD display
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** High contrast adjustable blue blacklight aesthetic is easier for users to see their information being displayed in all lighting.
+Less complex power supply setup, no need for extra regulator. Can run write-only mode to avoid bi-directional shifitng.
