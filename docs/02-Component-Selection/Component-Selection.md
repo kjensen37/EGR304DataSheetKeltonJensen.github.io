@@ -6,8 +6,7 @@ title: Component Selection Example
 
 1. PEC11R-4220F-N0024-ND Rotary Encoder
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0c0a8527-c071-43d1-9390-95dcc93203a3" />
-)
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0c0a8527-c071-43d1-9390-95dcc93203a3" />
 
     * $1.89/each
     * [link to product](https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220F-N0024/4699220?gclsrc=aw.ds&gad_source=4&gad_campaignid=20232005509&gclid=CjwKCAjwr8LHBhBKEiwAy47uUmV-P2ILuPxBcfFMkXV66jv7qH3sR4MutpoOQgJ1kdWp-W5v6PoJZRoC0XQQAvD_BwE)
