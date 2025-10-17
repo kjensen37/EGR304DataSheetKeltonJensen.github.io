@@ -834,11 +834,11 @@ create a cleaner looking panel. Less space required on the PCB board and it has 
 <p><strong>LCD Display</strong></p>
 <ol>
 <li>
-<p>XC1259TR-ND surface mount crystal</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="png" data-desc-position="bottom"><img alt="" src="png"></a></p>
+<p>1548-NHD-0216K1Z-NSW-BBW-L-ND LCD display</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/3143f729-8799-4647-9ae0-e45638180b8c" data-desc-position="bottom"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3143f729-8799-4647-9ae0-e45638180b8c"></a></p>
 <ul>
-<li>$1/each</li>
-<li><a href="http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366">link to product</a></li>
+<li>$7.92/each</li>
+<li><a href="https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-0216K1Z-NSW-BBW-L/1701179">link to product</a></li>
 </ul>
 <table>
 <thead>
@@ -849,26 +849,26 @@ create a cleaner looking panel. Less space required on the PCB board and it has 
 </thead>
 <tbody>
 <tr>
-<td>Inexpensive</td>
-<td>Requires external components and support circuitry for interface</td>
+<td>Standard 5V operation</td>
+<td>Requires backlight for visibility</td>
 </tr>
 <tr>
-<td>Compatible with PSoC</td>
-<td>Needs special PCB layout.</td>
+<td>High contrast blue backlight aesthetic</td>
+<td>Higher power consumption</td>
 </tr>
 <tr>
-<td>Meets surface mount constraint of project</td>
-<td></td>
+<td>Manual contrast control via potentiometer</td>
+<td>Limited viewing angles</td>
 </tr>
 </tbody>
 </table>
 </li>
 <li>
-<p>CTX936TR-ND surface mount oscillator</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image3.png" data-desc-position="bottom"><img alt="" src="../image3.png"></a></p>
+<p>NHD-0216HZ-FSW-FBW-33V3C-ND LCD display</p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/af4f548f-ad76-4bb9-ae8b-6c61d6eb827a" data-desc-position="bottom"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/af4f548f-ad76-4bb9-ae8b-6c61d6eb827a"></a></p>
 <ul>
-<li>$1/each</li>
-<li><a href="http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940">Link to product</a></li>
+<li>$9.37/each</li>
+<li><a href="https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-0216HZ-FSW-FBW-33V3C/2773591">Link to product</a></li>
 </ul>
 <table>
 <thead>
@@ -879,23 +879,24 @@ create a cleaner looking panel. Less space required on the PCB board and it has 
 </thead>
 <tbody>
 <tr>
-<td>Outputs a square wave</td>
-<td>More expensive</td>
+<td>Modern 3.3V logic compatibility</td>
+<td>Lower contrast appearance</td>
 </tr>
 <tr>
-<td>Stable over operating temperature</td>
-<td>Slow shipping speed</td>
+<td>Transflective display technology</td>
+<td>No manual contrast adjustment</td>
 </tr>
 <tr>
-<td>Direct interface with PSoC (no external circuitry required) range</td>
-<td></td>
+<td>Superior viewing angles</td>
+<td>Lower backlight current but separate voltage</td>
 </tr>
 </tbody>
 </table>
 </li>
 </ol>
-<p><strong>Choice:</strong> Option 2: CTX936TR-ND surface mount oscillator</p>
-<p><strong>Rationale:</strong> A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.</p>
+<p><strong>Choice:</strong> Option 1: 1548-NHD-0216K1Z-NSW-BBW-L-ND LCD display</p>
+<p><strong>Rationale:</strong> High contrast adjustable blue blacklight aesthetic is easier for users to see their information being displayed in all lighting.
+Less complex power supply setup, no need for extra regulator. Can run write-only mode to avoid bi-directional shifitng.</p>
 
 
 
