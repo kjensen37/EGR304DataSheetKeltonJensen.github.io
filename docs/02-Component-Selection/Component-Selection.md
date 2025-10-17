@@ -19,8 +19,7 @@ title: Component Selection Example
 
 2. PEC11R-4220K-S0024-ND Rotary Encoder
 
-    ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/296f9002-2d84-463f-b8e5-bd7ece7e1abe" />
-)
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/296f9002-2d84-463f-b8e5-bd7ece7e1abe" />
 
     * $2.20/each
     * [Link to product](https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4220K-S0024/6164059?gclsrc=aw.ds&gad_source=4&gad_campaignid=20232005509&gclid=CjwKCAjwr8LHBhBKEiwAy47uUoJJXs03gWoiEB9TnnwgNjIXGr7vssQzdQrfOzL1QPFXgUomusDsvxoCFlQQAvD_BwE)
