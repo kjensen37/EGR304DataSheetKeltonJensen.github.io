@@ -5,5 +5,5 @@ tags:
 - tag2
 ---
 
-(IndividualBlockKJ.drawio.png)
+[](IndividualBlockKJ.drawio.pdf)
 
