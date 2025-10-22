@@ -5,5 +5,5 @@ tags:
 - tag2
 ---
 
-[](IndividualBlockKJ.drawio.pdf)
+![](BOM-Screenshot.png){style width: "2000"}
 
