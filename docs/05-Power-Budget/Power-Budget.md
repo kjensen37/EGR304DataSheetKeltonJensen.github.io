@@ -16,4 +16,4 @@ From the prepare Power Budget, my team and I were able to conlcude that using th
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](KeltonJensenPowerBudget.pdf), and a Microsoft Excel Sheet [*here*](KeltonJensenPowerBudget.xlsx).
+The power budget as a PDF download is available [*here*](Kelton_Jensen_Power_Budget.pdf), and a Microsoft Excel Sheet [*here*](KeltonJensenPowerBudget.xlsx).
