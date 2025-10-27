@@ -5,7 +5,7 @@ title: Schematic
 ## Overview
 
 
-<img width="975" height="670" alt="image" src="https://github.com/user-attachments/assets/92784dc8-5bbd-44f3-aeb6-0260b5922064" />
+[](1761538977234-a6462448-f23b-4d48-856a-e257e61308c8_1.png)
 
 
 
