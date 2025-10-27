@@ -11,4 +11,4 @@ title: Schematic
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](KeltonJensenSubsystemSchematicDesign.pdf), and the Zip folder of the project [*here*](SubsystemSchematicDesignKJ.zip).
+The schematic as a PDF download is available [*here*](KeltonJensenSubsystemSchematicDesign.pdf), and the Zip folder of the project [*here*]().
