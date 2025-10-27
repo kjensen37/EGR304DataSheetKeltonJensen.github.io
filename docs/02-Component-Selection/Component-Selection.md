@@ -30,6 +30,20 @@ title: Component Selection
     | Versatile user interface                                          | More complex wiring |
     | Tool free knob installation                                       | Potential knob slippage |
 
+3. PEC12R-4225F-S0024-ND Rotary Encoder
+
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/078bb525-8368-467e-a102-3654a1ed8ee2" />
+
+
+    * $1.72/each
+    * [Link to product](https://www.digikey.com/en/products/detail/bourns-inc/PEC12R-4225F-S0024/4499648)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | Higher speed rating                                               | No mounting bushing or nut      |
+    | Horizontal/axial mounting with no bushing required                | More complex PCB footprint |
+    | Longer 25mm shaft                                                 | Slightly lower torque feel |
+
 **Choice:** Option 2: PEC11R-4220K-S0024-ND Rotary Encoder
 
 **Rationale:** An integrated push button would increase functionality for our LCD interface. Having the switch built in means that we can
@@ -64,6 +78,21 @@ create a cleaner looking panel. Less space required on the PCB board and it has 
     | Modern 3.3V logic compatibility                                   | Lower contrast appearance                    |
     | Transflective display technology                                  | No manual contrast adjustment                |
     | Superior viewing angles                                           | Lower backlight current but separate voltage |
+
+3. NHD-0216HZ-FSW-FBW-33V3C-ND LCD display
+
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/08ac0dab-ce5f-4228-947d-b04a7da33103" />
+
+
+
+    * $12.09/each
+    * [Link to product](https://www.digikey.com/en/products/detail/newhaven-display-intl/NHD-0220FZ-FSW-GBW-P-33V3/2773592)
+
+    | Pros                                                              | Cons                |
+    | ----------------------------------------------------------------- | ------------------- |
+    | More display real estate                                          | Fine-pitch header                   |
+    | Pre-soldered pin header included                                  | Manual contrast adjustment required                |
+    | Ultra-compact profile                                             | Gray background aesthetic|
 
 **Choice:** Option 1: 1548-NHD-0216K1Z-NSW-BBW-L-ND LCD display
 
