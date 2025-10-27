@@ -26,9 +26,16 @@ for<br>
 
 ### My Contribution
 
-* This needs to be updated to reflect a team introduction
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
+My role of my main hub system is to transmit and recive digital and analog signals gathered by my teamates sensors, to then display them on a 16x2 LCD screen along with a rotary encoder able to alternate menus to display different subsystem informaton recieved. 
 
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
+To review the concept diagram of the subsystem detailing its major components, power levels, and connections, navigate to the [Block Diagram](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram) section of the datasheet.
 
-For all the sections
+To review the concept diagram of the subsystem and its connections, navigate to the [Component Selection](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/02-Component-Selection/Component-Selection) section of the datasheet.
+
+To review the details listed of the material used to construct the subsystem, navigate to the [BOM](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/03-BOM/BOM) section of the datasheet.
+
+To review the concept diagram of the subsystem and its connections, navigate to the [Schematic](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/04-Schematic/schematic) section of the datasheet.
+
+To review the concept diagram of the subsystem and its connections, navigate to the [Power Budget](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/Power-Budget) section of the datasheet.
+
+To review any additional information, navigate to the [Appendix](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/Appendix) section of the datasheet.
