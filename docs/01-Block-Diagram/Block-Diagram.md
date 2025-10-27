@@ -5,5 +5,5 @@ tags:
 - tag2
 ---
 
-![](IndividualBlockKeltonJensen.drawio.png)
+![](IndividualBlockFinalKJ.drawio.png)
 
