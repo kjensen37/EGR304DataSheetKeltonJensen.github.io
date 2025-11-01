@@ -10,6 +10,6 @@ This Bill of materails purpose is to show the cost, the quantity, and the manufa
 
 ## Bill of Materials Example (as Table)
 
-![](KJBOM.png)
+![](KeltonJensenbom.png)
 
-The BOM excel sheet download can be found [*here*](KeltonJensenBOM.xlsx) and the BOM excel sheet PDF can be found [*here*](KJBOM.pdf)
+The BOM excel sheet download can be found [*here*](KeltonJensenBOM.xlsx) and the BOM excel sheet PDF can be found [*here*](KeltonJensenbom.pdf)
