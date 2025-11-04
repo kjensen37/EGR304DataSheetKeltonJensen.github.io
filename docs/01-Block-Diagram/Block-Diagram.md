@@ -11,5 +11,5 @@ The Wall power supply will also be on my board and will be sending power to all 
 
 This board can run entirely off of the 5V 1.5A regulated power supply.
 ## Block Diagram
-![](KeltonFlowChart.drawio.png)
+![](KeltonJFlowChart.drawio.png)
 
