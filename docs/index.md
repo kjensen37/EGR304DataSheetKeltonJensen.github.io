@@ -40,8 +40,8 @@ My role of my main hub system is to transmit and recive digital and analog signa
 
 * To review the KICAD PCB design, navigate to the [PCB Design](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/06-PCB-Design/PCB-Design) section of the datasheet
 
-* To review the C code used for the subsystem, navigate to the [Microcontroller Code](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/07-Microcontroller-Code/Microcontroller-Code)
+* To review the C code used for the subsystem, navigate to the [Microcontroller Code](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/07-Microcontroller-Code/Microcontroller-Code) section of the datasheet.
 
-* To review Hardware changes for future design of the subsystem, navigate to the [Hardware V2.0](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/HardwareV2.0/Hardware)
+* To review Hardware changes for future design of the subsystem, navigate to the [Hardware V2.0](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/HardwareV2.0/Hardware) section of the datasheet.
 
-* To review the MPLabX project zip file for the subsystem, navigate to the [Resources](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/09-Resources/Resources)
+* To review the MPLabX project zip file for the subsystem, navigate to the [Resources](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/09-Resources/Resources) section of the datasheet.
