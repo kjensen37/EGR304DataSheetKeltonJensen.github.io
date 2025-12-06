@@ -38,4 +38,8 @@ To review the concept diagram of the subsystem and its connections, navigate to 
 
 To review the concept diagram of the subsystem and its connections, navigate to the [Power Budget](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/Power-Budget) section of the datasheet.
 
-To review any additional information, navigate to the [Appendix](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/Appendix) section of the datasheet.
+To review the KICAD PCB design, navigate to the [PCB Design](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/06-PCB-Design/PCB-Design) section of the datasheet
+
+To review the C code used for the subsystem, navigate to the [Microcontroller Code](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/07-Microcontroller-Code/Microcontroller-Code)
+
+To review Hardware changes for future design of the subsystem, navigate to the [Hardware V2.0](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/Hardware V2.0)
