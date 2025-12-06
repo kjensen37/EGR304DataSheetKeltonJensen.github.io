@@ -5,11 +5,17 @@ title: PCB Design
 ## Overview
 The PCB desing contains every component used from the schematic. All components are through hole allowing me to easily connect and disconnect every component. I will be using female to female wires for some of the connections from my teamates to my microcontroller. For the LCD I will be using a ribbon cable so it will not be surface mounted on the PCB itself.
 
-## Physical PCB
+## Physical Skeleton PCB
 
 ![](PCBRealFront.png)
 
 ![](PCBRealBack.png)
+
+## Physical Assembled PCB
+
+![]()
+
+![]()
 
 ## KICAD PCB
 
