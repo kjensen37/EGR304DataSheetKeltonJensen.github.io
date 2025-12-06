@@ -13,9 +13,9 @@ The PCB desing contains every component used from the schematic. All components 
 
 ## Physical Assembled PCB
 
-![]()
+![](AssembeledPCBTop.png)
 
-![]()
+![](AssembledPCBBack.png)
 
 ## KICAD PCB
 
