@@ -28,20 +28,20 @@ for<br>
 
 My role of my main hub system is to transmit and recive digital and analog signals gathered by my teamates sensors, to then display them on a 16x2 LCD screen along with a rotary encoder able to alternate menus to display different subsystem informaton recieved. 
 
-To review the concept diagram of the subsystem detailing its major components, power levels, and connections, navigate to the [Block Diagram](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram) section of the datasheet.
+* To review the concept diagram of the subsystem detailing its major components, power levels, and connections, navigate to the [Block Diagram](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/01-Block-Diagram/Block-Diagram) section of the datasheet.
 
-*To review the concept diagram of the subsystem and its connections, navigate to the [Component Selection](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/02-Component-Selection/Component-Selection) section of the datasheet.
+* To review the concept diagram of the subsystem and its connections, navigate to the [Component Selection](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/02-Component-Selection/Component-Selection) section of the datasheet.
 
-*To review the details listed of the material used to construct the subsystem, navigate to the [BOM](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/03-BOM/BOM) section of the datasheet.
+* To review the details listed of the material used to construct the subsystem, navigate to the [BOM](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/03-BOM/BOM) section of the datasheet.
 
-*To review the concept diagram of the subsystem and its connections, navigate to the [Schematic](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/04-Schematic/schematic) section of the datasheet.
+* To review the concept diagram of the subsystem and its connections, navigate to the [Schematic](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/04-Schematic/schematic) section of the datasheet.
 
-*To review the concept diagram of the subsystem and its connections, navigate to the [Power Budget](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/Power-Budget) section of the datasheet.
+* To review the concept diagram of the subsystem and its connections, navigate to the [Power Budget](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/Power-Budget) section of the datasheet.
 
-*To review the KICAD PCB design, navigate to the [PCB Design](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/06-PCB-Design/PCB-Design) section of the datasheet
+* To review the KICAD PCB design, navigate to the [PCB Design](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/06-PCB-Design/PCB-Design) section of the datasheet
 
-*To review the C code used for the subsystem, navigate to the [Microcontroller Code](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/07-Microcontroller-Code/Microcontroller-Code)
+* To review the C code used for the subsystem, navigate to the [Microcontroller Code](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/07-Microcontroller-Code/Microcontroller-Code)
 
-*To review Hardware changes for future design of the subsystem, navigate to the [Hardware V2.0](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/HardwareV2.0/Hardware)
+* To review Hardware changes for future design of the subsystem, navigate to the [Hardware V2.0](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/05-Power-Budget/HardwareV2.0/Hardware)
 
-*To review the MPLabX project zip file for the subsystem, navigate to the [Resources](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/09-Resources/Resources)
+* To review the MPLabX project zip file for the subsystem, navigate to the [Resources](https://kjensen37.github.io/EGR304DataSheetKeltonJensen.github.io/09-Resources/Resources)
