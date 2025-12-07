@@ -14,7 +14,7 @@ for<br>
 **Submission: 12, 6, 2025**
 </center>
 
-![](AssembledPCBTop.png)
+![](docs/AssembledPCBTop.png)
 
 ## Introduction
 
