@@ -100,7 +100,6 @@ create a cleaner looking panel. Less space required on the PCB board and it has 
 Less complex power supply setup, no need for extra regulator. Can run write-only mode to avoid bi-directional shifitng.
 
 ## MCC Configuration (PIC)/ Pinout Table
----
 
 ![](MicrochipApplication.png)
 
