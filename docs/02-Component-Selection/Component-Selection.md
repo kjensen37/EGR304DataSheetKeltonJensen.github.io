@@ -98,3 +98,10 @@ create a cleaner looking panel. Less space required on the PCB board and it has 
 
 **Rationale:** High contrast adjustable blue blacklight aesthetic is easier for users to see their information being displayed in all lighting.
 Less complex power supply setup, no need for extra regulator. Can run write-only mode to avoid bi-directional shifitng.
+
+## MCC Configuration (PIC)/ Pinout Table
+---
+
+![](MicrochipApplication.png)
+
+![](MicrochipPinnouts.png)
