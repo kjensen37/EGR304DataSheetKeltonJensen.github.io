@@ -14,6 +14,8 @@ for<br>
 **Submission: 12, 6, 2025**
 </center>
 
+![](AssembledPCBTop.png)
+
 ## Introduction
 
 * This data sheet exists to explain the subsection of the main hub microcontroller sending and recieving analog and digital signals from all other teamates PCB boards for the plant monitoring system.
