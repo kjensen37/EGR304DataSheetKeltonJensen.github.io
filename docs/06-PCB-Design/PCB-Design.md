@@ -23,4 +23,4 @@ The PCB desing contains every component used from the schematic. All components 
 
 ![](PCBBackKJ.png)
 
-An easier view of my PCB PDF's are [*here*](PCBFB-combined.pdf) and my custom footprint library is accessible [*here*](myfootprints.pretty.zip)
+An easier view of my PCB PDF's are [*here*](PCBFB-combined.pdf), my custom footprint library is accessible [*here*](myfootprints.pretty.zip), my PCB Gerber and Drill files can be accessed [*here*](SubsystemGerber.zip)
