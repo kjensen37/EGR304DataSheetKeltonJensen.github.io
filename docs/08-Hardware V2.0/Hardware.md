@@ -18,4 +18,4 @@ My hardware was relativly all in working condition. There are a couple of qualit
 **- More test points:** I remember listening to my professor talking about how you can never have enough test points / debugging LED's and I took that wisdom for granted. Especially when getting everything set up and powered for the first time it wouldve saved me a lot of hastle if I had more debugging tools for both hardware and software.
 
 ---
-These are all of the possible adjustments for my PCB board. With these improvements the board would be more accesable and easier to manufacutre
+These are all of the possible adjustments for my PCB board. With these improvements the board would be more accesible and easier to manufacutre
